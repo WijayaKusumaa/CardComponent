@@ -1,4 +1,4 @@
-# 🎴 Wijaya Card Components
+# 🎴Card Components
 
 [![Version](https://img.shields.io/badge/version-2.4.1-blue.svg?style=flat-square)](package.json)
 [![Framework](https://img.shields.io/badge/framework-TanStack%20Start-FF4154.svg?style=flat-square)](https://tanstack.com/router/v1/docs/start/overview)
